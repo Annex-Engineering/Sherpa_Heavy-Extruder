@@ -10,3 +10,5 @@ This is the Sherpa Heavy Extruder, a ground up design developed by Anlin and the
 A Pinion Equipped NEMA17 Stepper is required for this Release.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
+
+![Image of Sherpa Heavy](Images/sh_2.jpg?raw=true)
