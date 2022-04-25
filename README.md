@@ -14,3 +14,9 @@ A Pinion Equipped NEMA17 Stepper is required for this Release.
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
 ![Image of Sherpa Heavy](Images/sh_2.jpg?raw=true)
+
+
+##Discord
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
