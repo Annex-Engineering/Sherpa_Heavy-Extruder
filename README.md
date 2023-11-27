@@ -7,7 +7,9 @@ The BOM and Sourcing Guide for this product can be found here: https://docs.goog
 
 
 ## Product Info
-This is the Sherpa Heavy Extruder, a ground up design developed by Anlin and the team at Annex Engineering, that is based on the "original Sherpa Mini extruder". It's a dual geared hobbed filament extruder designed for use with any extremely high flow rate printers. It features a 50:8 gear driven design to provide enough torque to push filament at upwards of 100mm^3/s through a Slice Engineering Mag+ or similar hotend. You must perform your own tuning to get the best results.
+We're also excited to finally introduce Sherpa Heavy, the performance flagship of the Sherpa lineup. Designed for applications requiring extreme performance at high speeds, Sherpa Heavy uses a modified Sherpa Mini housing and a 7T NEMA17 motor co-developed and produced by LDO Motors. With a pushing force in excess of 160N, Sherpa Heavy eliminates the extruder as a performance bottleneck. And with a footprint only slightly longer than a Sherpa Mini and weighing in at 160g, it is still small and light enough to be used in a direct drive configuration. 
+
+Please note that Sherpa Heavy is a speciality product for high performance printers. For most users, Sherpa Mini provides more than sufficient performance and strikes a better balance between size, weight and power
 
 A Pinion Equipped NEMA17 Stepper is required for this Release.
 
