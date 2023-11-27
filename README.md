@@ -1,4 +1,4 @@
-# Sherpa Heavy - Release 1
+# Sherpa Heavy - Release 2
 
 ## FAQ
 For Material Requirements, Print Settings and How to Interpret the file naming structure, please see: "Print_Settings_and_File_Key.txt"
