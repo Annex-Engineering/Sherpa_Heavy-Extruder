@@ -1,5 +1,7 @@
 # Sherpa Heavy - Release 2
 
+The first official release of Sherpa Heavy, Sherpa Mini's fat cousin built to push filament to extreme flowrates
+
 ## FAQ
 For Material Requirements, Print Settings and How to Interpret the file naming structure, please see: "Print_Settings_and_File_Key.txt"
 
